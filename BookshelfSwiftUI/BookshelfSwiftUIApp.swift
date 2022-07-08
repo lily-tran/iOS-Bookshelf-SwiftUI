@@ -11,7 +11,7 @@ import SwiftUI
 struct BookshelfSwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+        BookListView()
         }
     }
 }
